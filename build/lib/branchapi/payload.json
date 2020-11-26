@@ -1,0 +1,8 @@
+{   
+    "report_type": "eo_open",
+    "limit": 100,
+    "fields": ["timestamp","name"],
+    "start_date": "2020-05-12T00:00:00Z",
+    "end_date": "2020-05-12T01:59:59Z",
+    "filter": ["gt","app_id",7]
+}

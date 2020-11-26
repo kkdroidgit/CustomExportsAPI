@@ -1,0 +1,7 @@
+{   
+    "report_type": "eo_install",
+    "limit": 100,
+    "fields": ["timestamp","name","user_data_geo_region_en","user_data_geo_region_code"],
+    "start_date": "2020-06-07T00:00:00Z",
+    "end_date": "2020-06-07T01:59:59Z"
+}
